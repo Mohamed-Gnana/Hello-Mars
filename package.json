@@ -1,0 +1,27 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.0",
+  "description": "Just a demo Hello mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Gnana/Hello-Mars.git"
+  },
+  "keywords": [
+    "hello",
+    "mars"
+  ],
+  "author": "'Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Gnana/Hello-Mars/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Gnana/Hello-Mars#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
